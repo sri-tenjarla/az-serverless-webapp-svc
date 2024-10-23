@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzAppServiceApp102")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6cf08d9094ff3acc5bc807cd06f675028f961db")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzAppServiceApp102")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzAppServiceApp102")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
